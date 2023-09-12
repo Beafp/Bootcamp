@@ -1,0 +1,51 @@
+.boton1 {
+    border-radius: 20px;
+    padding: 3px 20px;
+    border: 1px #20B2AA;
+
+    border: 2px solid green;
+    color: green;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.boton1:hover {
+  background-color: gray;
+}
+.boton2 {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin: 15px 30px;
+  
+  background-color: aqua;
+  color:white;
+  border: 2px solid aqua;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.boton2:hover {
+  background-color: #0056b3 ;
+
+}
+
+.boton3 {
+  background-color: #4169E1 ;
+  color: white;
+  padding: 3px 20px;
+  width: 150px;
+  height: 40px;
+
+  border: 2px solid black;
+  margin-left: 30px;
+
+}
+.boton3 {
+box-shadow: 5px 5px 0px rgba(0,0, 0, 5);
+
+}
+.boton3:hover {
+  background-color: gray;
+}
