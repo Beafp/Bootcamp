@@ -1,0 +1,54 @@
+body {
+}
+h1, span
+    {
+        
+        color: white;
+        display: inline-block;
+        margin:0px;
+    }   
+
+h2
+    {
+        
+        color: white;
+        display: inline-block;
+        margin: 2px;
+    }   
+div{
+    margin: 2%;
+}
+.titulo1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Console', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold ;
+    background-color:black;
+
+}
+.titulo2{
+    color: rgb(14, 238, 234);
+
+}
+.titulo3
+{ 
+    font-family: cursi;
+    background-color: #663399;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.titulo4
+{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #87CEFA;
+    text-align: right;
+    padding-right: 20px;
+    text-decoration: underline;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+
+
+
