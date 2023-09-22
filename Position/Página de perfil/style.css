@@ -1,0 +1,133 @@
+.flex-container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.flex-container, .nav-links, .nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.nav{
+    height: 80px;
+    background-color: #222;
+    color: #fff;
+    margin-bottom: 20px;
+}   
+.nav-links{
+    width: 70%;
+    list-style-type: none;
+    align-items: center;
+}
+
+body{
+    font-family: 'Island Moments', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.contenedor{
+    display: flex;
+}
+.main{
+    flex: 2;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+.titulo{
+    background-color: #696969;
+}
+.tarjeta{
+  margin-bottom: 40px;  
+    
+}
+.encabezado {
+    background-color: #87CEEB;
+    height: 100px;
+}
+.usuario{
+    position: relative;
+    width: 85px;
+    top: 60px;
+    left: 30px;
+    border-radius: 55%;
+    padding: 2px;
+    border-color: #DCDCDC;
+    border-width: 2px ;
+}
+.cuerpo{
+    padding: 30px;
+    border: 2px solid #e8e8e8e1;
+}
+.iconos{
+    width: 13px;
+    margin-right: 10px;
+}
+.ubicacion{
+    margin-bottom: 10px;
+}
+.edicion{
+    margin-top: 10px;
+}
+.solicitudes
+{
+    flex: 1;
+    height: 50px;
+    
+    width: 10%;
+    margin-left: 10%;
+    margin-right: 5%;
+    
+    
+}
+.contenedor2{
+    border: 2px solid #D3D3D3;
+    margin-bottom: 30px;
+}
+.contenedor4{
+    border: 2px solid #D3D3D3;
+}
+.subtitle{
+    color: white;
+    margin-top: 13px;
+}
+.badge{
+    margin: 10px 10px;
+    border-top: 10px;
+    text-align: center;
+    background-color: #D3D3D3;
+    padding: 5px;
+    border-radius: 50%;
+    flex-wrap: wrap;
+    text-align: center;
+}
+#connectionsRequestNumber{
+    width: 15px;
+    height: 15px;   
+}
+.logo{
+margin-left: 10px;
+height: 20px;
+}
+.avatar-s{
+    width: 0 auto;
+    height: 30px;
+    align-content:left;
+}
+.nombre{
+    display: flex;
+}
+.contentIcons{
+    align-items: flex-end;
+}
+.contenedor3{
+    border: 2px solid #D3D3D3;
+
+}
+.text1{
+    padding: 10px;
+}
+li a{
+    color: white;
+}
+.btn{
+    background-color: #87CEEB;
+    color: white;
+}
