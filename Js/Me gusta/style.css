@@ -1,0 +1,40 @@
+.body{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.someUser{
+    border: 2px solid black;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 20px;
+    margin: 5% 20%;
+
+}
+.flex-container{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+}
+.btnlbl{
+    position: relative;
+    width: 125px;
+    right: 70px;
+    
+
+}
+.btn{
+    background-color: #FFD700;
+    box-shadow: 3px 3px 5px 0px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+    
+    
+}
+.text{
+    font-style:oblique;
+
+}
